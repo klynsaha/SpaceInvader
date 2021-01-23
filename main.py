@@ -1,6 +1,5 @@
 import random
 import math
-import time
 import pygame
 from pygame import mixer
 

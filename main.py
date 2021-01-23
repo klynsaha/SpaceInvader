@@ -92,7 +92,6 @@ def game_over_text():
 
 # Game loop
 running = True
-pause = 0
 while(running):
     # RGB
     screen.fill((0, 0, 0))
